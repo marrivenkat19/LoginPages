@@ -16,10 +16,7 @@ public class AddServlet extends HttpServlet  {
 		
 		
 		PrintWriter out = res.getWriter();
-		 
-		/*if (user.equals("user") && password.equals("password"))
-			out.println("Login Success...!");
-		else out.println("Login Failed...!");*/ 
+		
 		
 		
 		
